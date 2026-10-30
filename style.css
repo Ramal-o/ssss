@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    
+}
+canvas {
+    background-color: blue;
+    width: 100vw;
+    aspect-ratio: 16 / 9;
+    max-height: 100vh;
+    image-rendering: pixelated;
+    font-size: 40px;
+    
+}
